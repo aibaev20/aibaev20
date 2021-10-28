@@ -43,8 +43,8 @@
 </details>
 
 <details>
-  <summary>:chart_with_upwards_trend: <b>Contribution Graph</b></summary>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
+  <summary>:chart_with_upwards_trend: <b>T-Rex graph</b></summary>
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" alt="t-rex gif">
 </details>
 
 <details>
