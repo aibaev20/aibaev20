@@ -7,7 +7,7 @@
 
 ## Talking about Personal Stuffs:
 
-:one: Currently learning HTML5&CSS3 and C++ .
+:one: Currently learning JavaScript and C++ .
 <br>
 :two: My projects are available on [Github](https://github.com/aibaev20?tab=repositories).
 <br>
