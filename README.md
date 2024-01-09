@@ -1,5 +1,5 @@
-<img src="https://i.pinimg.com/originals/b4/57/8e/b4578e2f796d306bfcdaed36ae4e41f0.gif">
-<!--# Hi :wave:, my name is [Alexander Baev](https://github.com/aibaev20/)
+
+# Hi :wave:, my name is [Alexander Baev](https://github.com/aibaev20/)
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=flathub.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -72,4 +72,3 @@
 # Mindset is what separates the best from the rest!
 
 </div>
--->
