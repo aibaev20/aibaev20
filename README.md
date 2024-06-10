@@ -40,6 +40,8 @@ Reach me: AIBaev20@codingburgas.bg
   [![Microsoft Excel 2016](https://i.postimg.cc/CKPKF4t3/microsoft-office-specialist-excel-office-2016.png)](https://www.credly.com/badges/f7e0737d-e171-4702-9782-4e3df74c9e25/public_url)
   [![HTML & CSS](https://i.postimg.cc/tT8C649D/mta-introduction-to-programming-using-html-and-css-certified-2021.png)](https://www.credly.com/badges/905e98a9-ebc6-49a7-8708-80700eab2b7b/public_url)
   [![IT Specialist JavaScript](https://i.postimg.cc/2SYyTyhK/it-specialist-javascript.png)](https://www.credly.com/badges/d51dea26-f521-47cc-80a3-3b1602505a31/public_url)
+  [![IT Specialist Software Development](https://i.postimg.cc/mZPjbMgq/it-specialist-software-development.png)](https://www.credly.com/badges/11ca5258-dfea-4cd0-b842-7569161bdf23/public_url)
+  [![IT Specialist Databases](https://i.postimg.cc/MKWG70f3/it-specialist-databases.png)](https://www.credly.com/badges/efb0b551-a23d-4e15-b0a0-c3777df798e5/public_url)
   [![English for IT1](https://i.postimg.cc/tJVGGdQN/english-for-it-1.png)](https://www.credly.com/badges/a06f33b7-cf77-4641-b69b-d891a57ca8b6/public_url)
   [![English for IT2](https://i.postimg.cc/6TJJW7BJ/english-for-it-2.png)](https://www.credly.com/badges/c801581c-b9d7-46dd-bb4f-2c141651ad60/public_url)
   [![JavaScript Essentials 1](https://i.postimg.cc/mgSDn4S2/javascript-essentials-1.png)](https://www.credly.com/badges/a8d9f017-f4ff-4dca-b490-030cc9748db5/public_url)
