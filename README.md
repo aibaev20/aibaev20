@@ -24,6 +24,7 @@ Reach me: AIBaev20@codingburgas.bg
   <code><img height="40" src="https://files.raycast.com/80x1pxra7cyabkoyxqvlono2sg9p" alt="Tailwind"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt="SSMS"></code>
   <code><img height="40" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git"></code>
   <code><img height="40" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" alt="Figma"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux"></code>
