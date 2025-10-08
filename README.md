@@ -4,7 +4,7 @@
 
 ## Personal Stuff:
 
-Student at [VSCPI](https://www.codingburgas.bg/). Highly motivated and adaptable individual with a passion for programming. I am dedicated to achieving excellence in every task I undertake.
+I'm a Computer Software Engineering student at [Technical University of Sofia](https://www.tu-sofia.bg/). Highly motivated and adaptable individual with a passion for programming. I am dedicated to achieving excellence in every task I undertake.
 
 Reach me: AIBaev20@codingburgas.bg
 
@@ -12,7 +12,7 @@ Reach me: AIBaev20@codingburgas.bg
 
 ## Languages and Tools:
 
-  <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET"></code>
   <code><img height="40" src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="SQL"></code>
   <code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML"></code>
